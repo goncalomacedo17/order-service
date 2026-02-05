@@ -1,4 +1,4 @@
-package com.example.goncalomacedo17.bookingService.Event;
+package com.goncalomacedo17.orderService.Event;
 
 import java.math.BigDecimal;
 
